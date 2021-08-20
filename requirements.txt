@@ -1,0 +1,3 @@
+pip install winreg
+pip install re
+pip install codecs
